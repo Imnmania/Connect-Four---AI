@@ -252,7 +252,7 @@ board = initializing_board()
 game_over = False
 
 pygame.init()
-pygame.display.set_caption('4Connect GAME || CSE 440 Project')
+pygame.display.set_caption('Connect Four - AI')
 
 SQUARESIZE = 100
 

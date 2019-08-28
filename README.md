@@ -1,3 +1,3 @@
 # Connect Four AI
 
-![Screenshot](https://i.imgur.com/YmKqNby.png)
+![Screenshot](https://i.imgur.com/YSwRzCA.png)
